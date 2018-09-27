@@ -10,7 +10,7 @@ such as seen in Twitter, to a Rails Application.
 * jquery-rails
 
 
-This tutorial can be found here:
+The tutorial for this App can be found here:
 https://youtu.be/P0aMNioAZBs
 
 
